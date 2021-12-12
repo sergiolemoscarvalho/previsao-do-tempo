@@ -60,11 +60,11 @@ function App() {
   return (
    
     <div>
-      <nav className="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+      {/* <nav className="navbar navbar-expand-md navbar-dark bg-dark mb-4">
         <a className="navbar-brand" href="#search">
             Previsão do tempo {}
         </a>
-      </nav>
+      </nav> */}
       <main className="container" id="search">
         <div className="jumbotron">
           <h1>Verifique a previsão do tempo </h1>
@@ -80,7 +80,7 @@ function App() {
           </div>
           <div className="row mb-4">
             <div className="col-md-6">
-               <p className="text-danger ">{erro}</p>
+               <p className="text-danger-2 ">{erro}</p>
             </div>
           </div>
 

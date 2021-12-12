@@ -1,4 +1,19 @@
 body{
-    background: url(./assets/images/bg-main.jpg) no-repeat center;
+    background: url('./images/bg-main.jfif')  center;
+    background-color: aqua;
     background-size: cover;
+}
+
+.jumbotron {
+
+    background-color: rgba(0,0,0,.6);
+}
+h1, h6{
+    color: yellowgreen;
+}
+p.lead, h3, h4{
+    color: white;
+}
+.text-danger-2 {
+   color: yellow;
 }
