@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/previsao-do-tempo/static/js/main.d67d1a6e.chunk.js",
+    "main.js.map": "/previsao-do-tempo/static/js/main.d67d1a6e.chunk.js.map",
+    "runtime-main.js": "/previsao-do-tempo/static/js/runtime-main.7d04c8f3.js",
+    "runtime-main.js.map": "/previsao-do-tempo/static/js/runtime-main.7d04c8f3.js.map",
+    "static/js/2.83fab632.chunk.js": "/previsao-do-tempo/static/js/2.83fab632.chunk.js",
+    "static/js/2.83fab632.chunk.js.map": "/previsao-do-tempo/static/js/2.83fab632.chunk.js.map",
+    "index.html": "/previsao-do-tempo/index.html",
+    "static/js/2.83fab632.chunk.js.LICENSE.txt": "/previsao-do-tempo/static/js/2.83fab632.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d04c8f3.js",
+    "static/js/2.83fab632.chunk.js",
+    "static/js/main.d67d1a6e.chunk.js"
+  ]
+}
