@@ -7,14 +7,13 @@ function App() {
   const [erro, setErro] = useState("");
   const [txtBtn, setTextBtn] = useState("Pesquisar");
   const [weatherForecast, setWeatherForecast] = useState(null);
-  const [geoLocation, setGeoLocation] = useState(null);
+  // const [geoLocation, setGeoLocation] = useState(null);
   
 
 
   const searchGeoLocation = () => {
 
-    fetch (
-      `http://api.ipstack.com/201.80.107.81?access_key=9aadc0cb4c4ade9863b003d0a66b64a7`
+    fetch (`http://api.ipstack.com/201.80.107.81?access_key=9aadc0cb4c4ade9863b003d0a66b64a7`
     ).then((response) => {
       return response.json();
     }).then ((data) => {
