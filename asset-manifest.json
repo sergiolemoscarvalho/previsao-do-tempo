@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/previsao-do-tempo/static/css/main.dda3c321.chunk.css",
+    "main.css": "/previsao-do-tempo/static/css/main.75ac831e.chunk.css",
     "main.js": "/previsao-do-tempo/static/js/main.7d2d59f4.chunk.js",
     "main.js.map": "/previsao-do-tempo/static/js/main.7d2d59f4.chunk.js.map",
     "runtime-main.js": "/previsao-do-tempo/static/js/runtime-main.7d04c8f3.js",
@@ -8,14 +8,14 @@
     "static/js/2.83fab632.chunk.js": "/previsao-do-tempo/static/js/2.83fab632.chunk.js",
     "static/js/2.83fab632.chunk.js.map": "/previsao-do-tempo/static/js/2.83fab632.chunk.js.map",
     "index.html": "/previsao-do-tempo/index.html",
-    "static/css/main.dda3c321.chunk.css.map": "/previsao-do-tempo/static/css/main.dda3c321.chunk.css.map",
+    "static/css/main.75ac831e.chunk.css.map": "/previsao-do-tempo/static/css/main.75ac831e.chunk.css.map",
     "static/js/2.83fab632.chunk.js.LICENSE.txt": "/previsao-do-tempo/static/js/2.83fab632.chunk.js.LICENSE.txt",
     "static/media/App.css": "/previsao-do-tempo/static/media/bg-main.fbe98e7b.jfif"
   },
   "entrypoints": [
     "static/js/runtime-main.7d04c8f3.js",
     "static/js/2.83fab632.chunk.js",
-    "static/css/main.dda3c321.chunk.css",
+    "static/css/main.75ac831e.chunk.css",
     "static/js/main.7d2d59f4.chunk.js"
   ]
 }
