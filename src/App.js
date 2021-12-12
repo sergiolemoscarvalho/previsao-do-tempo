@@ -7,13 +7,13 @@ function App() {
   const [erro, setErro] = useState("");
   const [txtBtn, setTextBtn] = useState("Pesquisar");
   const [weatherForecast, setWeatherForecast] = useState(null);
-  // const [geoLocation, setGeoLocation] = useState(null);
+  const [geoLocation, setGeoLocation] = useState(null);
   
 
 
   const searchGeoLocation = () => {
 
-    fetch (`http://api.ipstack.com/201.80.107.81?access_key=9aadc0cb4c4ade9863b003d0a66b64a7`
+    fetch (`https://api.ipstack.com/201.80.107.81?access_key=9aadc0cb4c4ade9863b003d0a66b64a7`
     ).then((response) => {
       return response.json();
     }).then ((data) => {
@@ -33,7 +33,7 @@ function App() {
   const searchForecastWeather = () => {
     setTextBtn("Buscando...");
     fetch (
-      `http://api.weatherapi.com/v1/current.json?key=cdbfddfed5ef4d32817233137212010&q=${city}&lang=pt
+      `https://api.weatherapi.com/v1/current.json?key=cdbfddfed5ef4d32817233137212010&q=${city}&lang=pt
       `).then(( response ) => {
         if(response.status === 200){
           setTextBtn("Pesquisar");
