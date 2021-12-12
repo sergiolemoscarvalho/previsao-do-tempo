@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sergiolemoscarvalho.github.io/weather",
-  "name": "weather",
+  "homepage": "https://sergiolemoscarvalho.github.io/previsao-do-tempo",
+  "name": "previsao-do-tempo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
